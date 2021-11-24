@@ -1,4 +1,4 @@
 # conflict-resolution
 
 ## a subheading made on the remote
-this will cause a merge conflict
+this will hopefully cause a merge conflict
